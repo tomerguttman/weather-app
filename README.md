@@ -8,4 +8,5 @@
 
 # weather-app
 Built a weather app which allows a client to pick a city and see it's current weather using OpenWeather API
+<br>Tech used:<br />  `JavaScript` `Node.js` `Express.js` `CSS` `HTML` `Bootstrap` `JSON` 
 
