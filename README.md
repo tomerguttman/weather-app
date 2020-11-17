@@ -6,7 +6,7 @@
   <img src="https://i.ibb.co/hB7DZX7/2.png" title="SDMarket">
 </p>
 
-# weather-app
+# weather-app 🌤
 Built a weather app which allows a client to pick a city and see it's current weather using OpenWeather API
 
 <br>Tech used:<br/>  `JavaScript` `Node.js` `Express.js` `CSS` `HTML` `Bootstrap` `JSON` 
@@ -33,4 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Credits
 
-- Authors: <a href="mailto:tomerguttman27@gmail.com" target="_blank">Tomer Guttman</a>
+- Author: <a href="mailto:tomerguttman27@gmail.com" target="_blank">Tomer Guttman</a>
